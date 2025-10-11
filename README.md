@@ -53,7 +53,7 @@ pnpm install
    src/userplugins/[any name]/index.tsx
    ```
 > [!Note]
-> Some times the plugin has many files other than `index.tsx` get them all and place them in the same folder
+> Sometimes the plugin has many files other than `index.tsx` get them all and place them in the same folder
 
 
 ### 3. Build and Inject
