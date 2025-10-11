@@ -45,7 +45,7 @@ pnpm install
 
 2. Download or copy the plugin file 👉 `index.tsx`
 
-3. Place the file folder:
+3. Place the plugin file in the folder:
 
    ```
    src/userplugins/[any name]/index.tsx
