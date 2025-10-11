@@ -65,6 +65,4 @@ pnpm build
 # Inject stuff in Discord
 pnpm inject
 ```
-
-
-🫣
+### 4. Done Easy
