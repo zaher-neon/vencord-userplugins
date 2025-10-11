@@ -16,6 +16,8 @@ QuestComplete is a Vencord plugin that adds a “Spoof” button to the Quests t
 
 ## Installation Guide
 
+You can check [Official Vencord](https://docs.vencord.dev/installing/) or do below stuff:
+
 ### Requirements
 
 Before installing, make sure you have:
