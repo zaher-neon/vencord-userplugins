@@ -2,7 +2,7 @@
 
 ![WOOOO](woooo.png)
 # Vencord Plugins/Mods
-My vencord custom plugins/mods, dont forget to leave a Star ⭐
+My vencord custom plugins/mods, dont forget to leave a *Star* ⭐
 
 </div>
 
