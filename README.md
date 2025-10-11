@@ -1,8 +1,8 @@
 <div align="center">
 
 ![WOOOO](woooo.png)
-# vencord-userplugins
+# Vencord Plugins/Mods
 
 </div>
 
-My vencord plugins/mods, dont forget to leave a Star ⭐
+My vencord custom plugins/mods, dont forget to leave a Star ⭐
