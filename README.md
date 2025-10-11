@@ -56,9 +56,15 @@ pnpm install
 
 ### 3. Build and Inject
 
-Run the following commands in the **root directory** of your Vencord clone:
+Close Discord App, Run the following commands in the **root directory** of your Vencord clone:
 
 ```bash
+# Build the stuff
 pnpm build
+
+# Inject stuff in Discord
 pnpm inject
 ```
+
+
+🫣
