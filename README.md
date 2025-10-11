@@ -67,4 +67,5 @@ pnpm build
 # Inject stuff in Discord
 pnpm inject
 ```
-### 4. Done Easy
+### 4. Select Stable
+Just Hit `Enter` 
