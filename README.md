@@ -2,10 +2,10 @@
 
 ![WOOOO](woooo.png)
 # Vencord Plugins/Mods
+My vencord custom plugins/mods, dont forget to leave a Star ⭐
 
 </div>
 
-My vencord custom plugins/mods, dont forget to leave a Star ⭐
 
 
 ### 🫣 [**HideServerActivity**](https://github.com/zaher-neon/vc-hideServerActivity)
