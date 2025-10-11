@@ -37,19 +37,18 @@ pnpm install
 
 ### 2. Add the Plugin
 
-1. Inside the `src` folder, create a new folder structure:
+1. Inside the `src` folder create a new folder `userplugins` then create another one with any name:
 
    ```
-   src/userplugins/questComplete/
+   src/userplugins/[any name]/
    ```
 
-2. Download or copy the plugin file
-   👉 [`index.tsx`](https://github.com/zaher-neon/vc-questComplete/blob/main/index.tsx)
+2. Download or copy the plugin file 👉 `index.tsx`
 
-3. Place the file inside the `questComplete` folder:
+3. Place the file folder:
 
    ```
-   src/userplugins/questComplete/index.tsx
+   src/userplugins/[any name]/index.tsx
    ```
 
 
