@@ -70,4 +70,4 @@ pnpm inject
 ### 4. Select Stable
 Just Hit `Enter` 
 
-## Hooorraayy You Did It 🎉
+### Hooorraayy You Did It 🎉
