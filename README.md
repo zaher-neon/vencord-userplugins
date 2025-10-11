@@ -45,13 +45,15 @@ pnpm install
    src/userplugins/[any name]/
    ```
 
-2. Download or copy the plugin file 👉 `index.tsx`
+2. Download the plugin files 👉 `index.tsx`
 
 3. Place the plugin file in the folder:
 
    ```
    src/userplugins/[any name]/index.tsx
    ```
+> [!Note]
+> Some times the plugin has many files other than `index.tsx` get them all and place them in the same folder
 
 
 ### 3. Build and Inject
