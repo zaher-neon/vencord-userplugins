@@ -12,7 +12,7 @@ My vencord custom plugins/mods, dont forget to leave a Star ⭐
 Hides the "Activity" section from the server members list in Discord, including any activity cards like playing games, listening to music, or streaming.
 
 ### 🎩 [**QuestComplete (Beta)**](https://github.com/zaher-neon/vc-questComplete)
-QuestComplete is a Vencord plugin that adds a “Spoof” button to the Quests tab in Discord, allowing you to complete quests without having to install or launch games/apps manually.
+QuestComplete is a Vencord plugin that adds a “Spoof” button to the Quests tab in Discord, allowing you to complete quests without having to install or launch games/apps manually. Spoofing code adapted from [this gist](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) by [aamiaa](https://gist.github.com/aamiaa).
 
 ## Installation Guide
 
