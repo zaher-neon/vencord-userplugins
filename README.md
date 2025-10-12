@@ -8,7 +8,7 @@ My vencord custom plugins/mods, dont forget to leave a ***Star*** ⭐
 </div>
 
 > [!Note]
-> My Plugins uses `MutationObserver` instead of `patches` and this is not efficient im just lazy coder, im will update them to use patches for efficiency later.
+> My Plugins uses `MutationObserver` instead of `patches` and this is not efficient im just lazy coder, im will update them to use `patches` for efficiency later.
 
 ### 🫣 [**HideServerActivity**](https://github.com/zaher-neon/vc-hideServerActivity):
 Hides the "Activity" section from the server members list in Discord, including any activity cards like playing games, listening, ect.
