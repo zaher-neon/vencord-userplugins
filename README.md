@@ -70,6 +70,6 @@ pnpm build
 pnpm inject
 ```
 ### 4. Select Stable
-Just Hit `Enter` 
+Just Hit `Enter` for stable
 
 ### Hooorraayy You Did It 🎉
