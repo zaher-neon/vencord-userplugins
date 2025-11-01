@@ -2,9 +2,10 @@
 <div align="center">
 
 ![WOOOOOO](woooooo.png)
-# Vencord Plugins/Mods [![Visits Badge](https://badges.strrl.dev/visits/zaher-neon/vencord-userplugins)](https://badges.strrl.dev)
+# Vencord Plugins/Mods
 
 My vencord custom plugins/mods, dont forget to leave a ***Star*** ⭐ 
+ [![Visits Badge](https://badges.strrl.dev/visits/zaher-neon/vencord-userplugins)](https://badges.strrl.dev)
 </div>
 
 > [!Note]
