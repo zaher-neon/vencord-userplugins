@@ -3,7 +3,8 @@
 
 ![WOOOOOO](woooooo.png)
 # Vencord Plugins/Mods
-My vencord custom plugins/mods, dont forget to leave a ***Star*** ⭐ ![Views](https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/zaher-neon/vencord-userplugins&query=value&label=Views&color=purple&style=for-the-badge)
+My vencord custom plugins/mods, dont forget to leave a ***Star*** ⭐ ![Visitors](https://komarev.com/ghpvc/?username=zaher-neon&repo=vencord-userplugins&color=blue)
+
 
 
 </div>
