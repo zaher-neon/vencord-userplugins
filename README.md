@@ -2,7 +2,7 @@
 <div align="center">
 
 ![WOOOOOO](woooooo.png)
-# Vencord Plugins/Mods ![Repo Visitors](https://komarev.com/ghpvc/?username=zaher-neon&repo=vencord-userplugins&style=for-the-badge)
+# Vencord Plugins/Mods [![Visits Badge](https://badges.strrl.dev/visits/zaher-neon/vencord-userplugins)](https://badges.strrl.dev)
 
 My vencord custom plugins/mods, dont forget to leave a ***Star*** ⭐ 
 </div>
